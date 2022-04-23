@@ -33,8 +33,8 @@ module.exports = {
     '/tr/': {
       lang: 'Turkish',
       title: 'Nushell',
-      description: 'Shell için yeni bir tip.'
-    }
+      description: 'Shell için yeni bir tip.',
+    },
   },
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -482,8 +482,8 @@ module.exports = {
         nav: [
           { text: 'Kitap', link: '/tr/book/' },
           // { text: "Contributor Book", link: "/contributor-book/" },
-          { text: 'Cookbook todo', link: '/cookbook/' },
-          { text: 'Blog todo', link: '/blog/' },
+          { text: 'Yemek kitabı', link: '/cookbook/' },
+          { text: 'Blog', link: '/blog/' },
         ],
         sidebar: {
           '/tr/book/': [
