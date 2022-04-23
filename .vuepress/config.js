@@ -30,6 +30,11 @@ module.exports = {
       title: 'Nushell',
       description: 'Um novo tipo de shell.',
     },
+    '/tr/': {
+      lang: 'Turkish',
+      title: 'Nushell',
+      description: 'Shell için yeni bir tip.'
+    }
   },
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -465,6 +470,113 @@ module.exports = {
                 'creating_errors',
                 'parallelism',
                 'plugins',
+              ],
+            },
+          ],
+        },
+      },
+      '/tr/': {
+        selectText: 'Türkçe',
+        label: 'turkish',
+        editLinkText: 'Bu sayfayı github üzerinden düzenleyebilirsiniz',
+        nav: [
+          { text: 'Kitap', link: '/tr/book/' },
+          // { text: "Contributor Book", link: "/contributor-book/" },
+          { text: 'Cookbook todo', link: '/cookbook/' },
+          { text: 'Blog todo', link: '/blog/' },
+        ],
+        sidebar: {
+          '/tr/book/': [
+            {
+              title: 'Başlayalım',
+              collapsable: false,
+              children: [
+                '',
+                'Kurulum',
+                'Nushell hakkındaki düşünceler',
+                'Sisteminizde gezelim',
+              ],
+            },
+            {
+              title: 'Nu Fundamentals',
+              collapsable: false,
+              children: [
+                'types_of_data',
+                'loading_data',
+                'working_with_strings',
+                'working_with_lists',
+                'working_with_tables',
+                'pipeline',
+                'command_reference',
+              ],
+            },
+            {
+              title: 'Programming in Nu',
+              collapsable: false,
+              children: [
+                'custom_commands',
+                'aliases',
+                'operators',
+                'variables_and_subexpressions',
+                'scripts',
+                'modules',
+              ],
+            },
+            {
+              title: 'Nu as a shell',
+              collapsable: false,
+              children: [
+                'configuration',
+                'environment',
+                'stdout_stderr_exit_codes',
+                'escaping',
+                '3rdpartyprompts',
+                'shells_in_shells',
+                'line_editor',
+                'externs',
+                'custom_completions',
+                'coloring_and_theming',
+              ],
+            },
+            {
+              title: 'Coming to Nu',
+              collapsable: false,
+              children: [
+                'coming_from_bash',
+                'nushell_map',
+                'nushell_map_imperative',
+                'nushell_map_functional',
+                'nushell_operator_map',
+              ],
+            },
+            {
+              title: 'Advanced',
+              collapsable: false,
+              children: [
+                'dataframes',
+                'metadata',
+                'creating_errors',
+                'parallelism',
+                'plugins',
+              ],
+            },
+          ],
+          '/cookbook/': [
+            {
+              title: 'Cookbook',
+              collapsable: false,
+              children: [
+                '',
+                'setup',
+                'help',
+                'system',
+                'parsing',
+                'native_shell_programs',
+                'files',
+                'git',
+                'parsing_git_log',
+                'http',
+                'misc',
               ],
             },
           ],
