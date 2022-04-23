@@ -6,7 +6,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "README.md",
@@ -15,7 +16,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "aliases.md",
@@ -24,7 +26,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "coloring_and_theming.md",
@@ -33,7 +36,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "coming_from_bash.md",
@@ -42,7 +46,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "command_reference.md",
@@ -51,7 +56,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "configuration.md",
@@ -60,7 +66,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "creating_errors.md",
@@ -69,7 +76,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "custom_commands.md",
@@ -78,7 +86,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "custom_completions.md",
@@ -87,7 +96,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "dataframes.md",
@@ -96,7 +106,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "environment.md",
@@ -105,7 +116,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "escaping.md",
@@ -114,7 +126,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "externs.md",
@@ -123,7 +136,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "installation.md",
@@ -132,7 +146,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "line_editor.md",
@@ -141,7 +156,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "loading_data.md",
@@ -150,7 +166,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "metadata.md",
@@ -159,7 +176,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "modules.md",
@@ -168,7 +186,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "moving_around.md",
@@ -177,7 +196,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "nushell_map.md",
@@ -186,7 +206,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "nushell_map_functional.md",
@@ -195,7 +216,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "nushell_map_imperative.md",
@@ -204,7 +226,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "nushell_operator_map.md",
@@ -213,7 +236,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "operators.md",
@@ -222,7 +246,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "parallelism.md",
@@ -231,7 +256,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "pipeline.md",
@@ -240,7 +266,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "plugins.md",
@@ -249,7 +276,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "regular_expressions.md",
@@ -258,7 +286,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "scripts.md",
@@ -267,7 +296,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "shells_in_shells.md",
@@ -276,7 +306,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "stdout_stderr_exit_codes.md",
@@ -285,7 +316,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "table_of_contents.md",
@@ -294,7 +326,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "thinking_in_nushell.md",
@@ -303,7 +336,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "types_of_data.md",
@@ -312,7 +346,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "variables_and_subexpressions.md",
@@ -321,7 +356,8 @@
     "de": "translated by @sebastian-xyz",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "working_with_lists.md",
@@ -330,7 +366,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "working_with_strings.md",
@@ -339,7 +376,8 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   },
   {
     "name": "working_with_tables.md",
@@ -348,6 +386,7 @@
     "de": "-",
     "ja": "-",
     "es": "-",
-    "pt-BR": "-"
+    "pt-BR": "-",
+    "tr": "-"
   }
 ]
