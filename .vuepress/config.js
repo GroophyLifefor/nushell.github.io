@@ -249,6 +249,31 @@ module.exports = {
           ],
         },
       },
+      '/tr/': {
+        selectText: 'Turkish',
+        label: 'türkçe',
+        editLinkText: 'Bu sayfayı GitHub üzerinde düzenle',
+        nav: [
+          { text: 'Kitap', link: '/tr/book/' },
+          // { text: "Contributor Book", link: "/contributor-book/" },
+          { text: 'Yemek Kitabı', link: '/tr/cookbook/' },
+          { text: 'Blog', link: '/blog/' },
+        ],
+        sidebar: {
+          '/tr/book/': [
+            {
+              title: 'Başlayalım', // Let's get started
+              collapsable: false,
+              children: [
+                '',
+                'installation',
+                'thinking_in_nushell',
+                'moving_around',
+              ],
+            },
+          ],
+        },
+      },
       '/es/': {
         selectText: 'Idiomas',
         label: 'Español',
@@ -470,113 +495,6 @@ module.exports = {
                 'creating_errors',
                 'parallelism',
                 'plugins',
-              ],
-            },
-          ],
-        },
-      },
-      '/tr/': {
-        selectText: 'Türkçe',
-        label: 'turkish',
-        editLinkText: 'Bu sayfayı github üzerinden düzenleyebilirsiniz',
-        nav: [
-          { text: 'Kitap', link: '/tr/book/' },
-          // { text: "Contributor Book", link: "/contributor-book/" },
-          { text: 'Yemek kitabı', link: '/cookbook/' },
-          { text: 'Blog', link: '/blog/' },
-        ],
-        sidebar: {
-          '/tr/book/': [
-            {
-              title: 'Başlayalım',
-              collapsable: false,
-              children: [
-                '',
-                'Kurulum',
-                'Nushell hakkındaki düşünceler',
-                'Sisteminizde gezelim',
-              ],
-            },
-            {
-              title: 'Nu Fundamentals',
-              collapsable: false,
-              children: [
-                'types_of_data',
-                'loading_data',
-                'working_with_strings',
-                'working_with_lists',
-                'working_with_tables',
-                'pipeline',
-                'command_reference',
-              ],
-            },
-            {
-              title: 'Programming in Nu',
-              collapsable: false,
-              children: [
-                'custom_commands',
-                'aliases',
-                'operators',
-                'variables_and_subexpressions',
-                'scripts',
-                'modules',
-              ],
-            },
-            {
-              title: 'Nu as a shell',
-              collapsable: false,
-              children: [
-                'configuration',
-                'environment',
-                'stdout_stderr_exit_codes',
-                'escaping',
-                '3rdpartyprompts',
-                'shells_in_shells',
-                'line_editor',
-                'externs',
-                'custom_completions',
-                'coloring_and_theming',
-              ],
-            },
-            {
-              title: 'Coming to Nu',
-              collapsable: false,
-              children: [
-                'coming_from_bash',
-                'nushell_map',
-                'nushell_map_imperative',
-                'nushell_map_functional',
-                'nushell_operator_map',
-              ],
-            },
-            {
-              title: 'Advanced',
-              collapsable: false,
-              children: [
-                'dataframes',
-                'metadata',
-                'creating_errors',
-                'parallelism',
-                'plugins',
-              ],
-            },
-          ],
-          '/cookbook/': [
-            {
-              title: 'Cookbook',
-              collapsable: false,
-              children: [
-                '',
-                'setup',
-                'help',
-                'system',
-                'parsing',
-                'native_shell_programs',
-                'files',
-                'git',
-                'parsing_git_log',
-                'http',
-                'misc',
               ],
             },
           ],
