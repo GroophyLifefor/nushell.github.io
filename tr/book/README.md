@@ -1,20 +1,20 @@
 # Tanıtım
 
-Hello, and welcome to the Nushell project. The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development.
+Merhaba ve Nushell projesine hoşgeldiniz. Bu projenin amacı, işlem hatlarının basit komutları birbirine bağladığı Unix kabuk felsefesini alıp modern geliştirme tarzına getirmektir.
 
-Nu takes cues from a lot of familiar territory: traditional shells like bash, object based shells like PowerShell, gradually typed languages like TypeScript, functional programming, systems programming, and more. But rather than trying to be a jack of all trades, Nu focuses its energy on doing a few things well:
+Nu, birçok tanıdık bölgeden ipuçları alıyor: bash gibi geleneksel bi' terminal, PowerShell gibi nesne tabanlı, TypeScript gibi kademeli olarak yazılan diller, fonksiyonel programlama, sistem programlama ve daha fazlası. Ama her işte usta olmayı denemek yerine Nu, enerjisini birkaç şeyi iyi yapmaya odaklar:
 
-- Being a flexible cross-platform shell with a modern feel
-- Solving problems as a modern programming language that works with the structure of your data
-- Giving clear error messages and clean IDE support
+- Modern bir his ile esnek bir platformlar için shell olmak
+- Verilerinizin yapısıyla çalışan modern bir programlama dili olarak sorunları çözme
+- Net ve anlaşılır hata mesajları ile temiz IDE desteği verme
 
-The easiest way to see what Nu can do is to start with some examples, so let's dive in.
+Nu'nun neler yapabileceğini görmenin en kolay yolu, bazı örneklerle başlamaktır, o yüzden başlayalım.
 
-The first thing you'll notice when you run a command like [`ls`](commands/ls.md) is that instead of a block of text coming back, you get a structured table.
+İlk şey [`ls`](commands/ls.md) gibi bir komut çalıştırdığında bir metin bloğunun geri gelmesi yerine yapılandırılmış bir tablo elde ediceksiniz.
 
 <<< @/snippets/introduction/ls_example.sh
 
-The table is more than just showing the directory in a different way. Just like tables in a spreadsheet, this table allows us to work with the data more interactively.
+Tablo, dizini farklı bir şekilde göstermekten daha fazlasıdır. Tıpkı bir elektronik tablodaki tablolar gibi, bu tablo da verilerle daha etkileşimli çalışmamızı sağlar.
 
 The first thing we'll do is to sort our table by size. To do this, we'll take the output from [`ls`](commands/ls.md) and feed it into a command that can sort tables based on the contents of a column.
 
