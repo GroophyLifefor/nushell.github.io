@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: null
-heroText: Nushell
+heroText: Nushell TR
 tagline: A new type of shell.
 actionText: Get Started →
 actionLink: /tr/book/

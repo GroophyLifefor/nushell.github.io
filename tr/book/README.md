@@ -1,4 +1,4 @@
-# Introduction
+# Tanıtım
 
 Hello, and welcome to the Nushell project. The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development.
 
