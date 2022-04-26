@@ -7,7 +7,7 @@ actionText: Get Started →
 actionLink: /tr/book/
 features:
   - title: Pipelines to control any OS
-    details: Nu works on Linux, macOS, and Windows. Learn it once, then use it anywhere.
+    details: change text test
   - title: Everything is data
     details: Nu pipelines use structured data so you can safely select, filter, and sort the same way every time. Stop parsing strings and start solving problems.
   - title: Powerful plugins
@@ -18,7 +18,7 @@ features:
 
 ### Nu works with existing data
 
-Nu speaks [JSON, YAML, XML, Excel and more](/book/loading_data.html) out of the box. It's easy to bring data into a Nu pipeline whether it's in a file, a database, or a web API:
+IF CHANGED HERE WORK [JSON, YAML, XML, Excel and more](/book/loading_data.html) out of the box. It's easy to bring data into a Nu pipeline whether it's in a file, a database, or a web API:
 
 <img src="/frontpage/fetch-example.png" alt="Screenshot showing fetch with a web API" class="hero"/>
 
